@@ -48,7 +48,7 @@ export default function Home({ posts }) {
          <Head>
             <title>Blog Sparkly</title>
             <meta name="description" content="Welcome to Blog Sparkly" />
-            <link rel="icon" href="/favicon.ico" />
+            <link rel="shortcut icon" href="/public/favicon.ico" />
          </Head>
 
          <main className={styles.main}>
